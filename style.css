@@ -1,0 +1,23 @@
+/*
+Theme Name: Blask (Yiou)
+Theme URI: https://wordpress.com/themes/blask/
+Description: Blask with Yiou's customizations.
+Version: 1.1.1
+Author: Jiehan Zheng
+Author URI: https://jiehan.org
+Template: blask
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: blask
+Tags: custom-background, custom-colors, custom-menu, portfolio, rtl-language-support, threaded-comments, translation-ready
+*/
+
+.site-logo {
+  margin-bottom: 1em;
+}
+
+.site-branding {
+  background: inherit;
+  margin-bottom: 0;
+  padding: 0;
+}
